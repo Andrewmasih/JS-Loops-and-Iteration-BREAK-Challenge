@@ -4,7 +4,7 @@ Challenge.
 
 1. write a for loop that iterates throght the numbers 0-10 and logs them to the console.
 
-2. break the loop after logginh the number 5
+2. break the loop after logging the number 5
 
 */
 
